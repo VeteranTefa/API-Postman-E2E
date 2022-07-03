@@ -1,0 +1,26 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "name": "First Post",
+      "Type": "Normal Post"
+    },
+    {
+      "id": 2,
+      "name": "Second Post",
+      "Type": "Advanced Post"
+    },
+    {
+      "name": "Third Post",
+      "Type": "this is Post Contains an Image",
+      "id": 3
+    }
+  ],
+  "users": [
+    {
+      "email": "olivier@mail.com",
+      "password": "$2a$10$l/YVQgQft9ls0ckoewX9oOrd8MeM7nnHIqMHeOUqNbm/vfTRUnKYK",
+      "id": 1
+    }
+  ]
+}
